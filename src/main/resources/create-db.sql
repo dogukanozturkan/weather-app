@@ -1,8 +1,8 @@
-DROP SCHEMA IF EXISTS `websystique`;
+DROP SCHEMA IF EXISTS `dok-workspace`;
 
-CREATE SCHEMA `websystique`;
+CREATE SCHEMA `dok-workspace`;
 
-USE `websystique`;
+USE `dok-workspace`;
 
 SET FOREIGN_KEY_CHECKS = 0;
 
