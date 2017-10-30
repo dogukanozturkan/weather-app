@@ -35,7 +35,7 @@ Running requires:
 * You must have Maven 3.x installed.
 
 
-### Run Via Command Line (Java+Jetty)
+### Run Via Command Line (Java+Tomcat)
 
     java -jar target/dependency/webapp-runner.jar target/*.war
 
