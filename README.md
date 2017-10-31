@@ -1,7 +1,7 @@
-Weather Forecast App with heroku-springmvc-hibernate-angularjs-mysql
+Weather Forecast App with heroku-springmvc-hibernate-mysql
 ========================
 
-Quickstart for a Spring MVC Angular Cloud oriented (Heroku) Weather Forecast Web Application backed by Hibernate, deployable to Heroku. 
+Quickstart for a Spring MVC Cloud oriented (Heroku) Weather Forecast Web Application backed by Hibernate, deployable to Heroku. 
 
 * You can check Weather Forecast using Wunderground Weather Forecast API. 
 * Admin Role can create/edit/update or delete users, adding new cities.
@@ -14,7 +14,6 @@ You can use the root account to login to the application and also you can build 
 
 The purpose of Weather Forecast app is to demonstrate how to integrate, in a robust manner, at least these technologies together in a single-page web application:
 
- - AngularJS;
  - Bootstrap;
  - Spring MVC;
  - Spring Security;
